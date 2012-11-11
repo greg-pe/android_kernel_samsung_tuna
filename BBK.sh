@@ -2,9 +2,9 @@
 # Bits and pieces borrowed from cvpcs and xoomdev build scripts
 # Required build variables,  adjust according to your own.
 # Path to toolchain
-  cco=~/kernel/android-toolchain-eabi/bin/arm-eabi-
+  cco=~/android/kernel/toolchain/arm-eabi-4.6/bin/arm-eabi-
 # Path to build your kernel
-  k=~/kernel/android_kernel_samsung_tuna
+  k=~/android/kernel/android_kernel_samsung_tuna
 # Directory for the any kernel updater
   t=$k/tools/bbk
 # Export betas to your dropbox
